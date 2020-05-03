@@ -4,7 +4,9 @@ Original idea: https://www.hackerrank.com/challenges/java-1d-array/problem
 
 How to run?
 
-This is made in Apple's Open Source Swift Powerfull Progamming Language
+This is made in Apple's Open Source Swift Powerfull Progamming Language.
+
+Made using Xcode - Version 11.4.1 (11E503a) on macOS 10.15.4 (19E287)
 
   macOS: 
 
